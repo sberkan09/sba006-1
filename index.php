@@ -1,6 +1,6 @@
 <?php
   
-  echo "hello world";
+  echo "<h1 align="center">Abi ağla</h1>";
   
   
 ?>
