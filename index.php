@@ -1,6 +1,6 @@
 <?php
   
-  echo '<h1 align="center">Ağla Yasin</h1>';
+  echo '<h1 align="center">Ağla Süha</h1>';
   
   
 ?>
